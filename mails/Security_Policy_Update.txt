@@ -1,0 +1,18 @@
+Subject: Urgent: Security Policy Update
+
+Dear John,
+
+We are currently in the process of updating our company-wide security protocols to better protect our systems and data.
+All employees are required to reset their passwords and enable two-factor authentication (2FA) on their accounts by the end of this week.
+
+To complete these actions, please log in to the IT portal and follow the instructions under the "Security Update" section.
+These measures are crucial in light of recent cyber incidents affecting organizations similar to ours.
+
+If you encounter any issues with the new process or have questions about 2FA, please get in touch with the IT support team for assistance.
+Your cooperation is vital to ensuring the continued security of our organization.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+Joseph
+IT Department
